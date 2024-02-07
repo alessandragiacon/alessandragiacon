@@ -6,11 +6,12 @@
 - 💻 I’m web developer and i currently working on [Genial Investimentos](https://www.genialinvestimentos.com.br)
 - 🌱 I’m currently learning [NextJS](https://nextjs.org/)
 - ⚙️ I use daily: `.php`, `.tsx`, `.scss`
+- 👩🏻‍🎓 I'm graduated in Game Development - FATEC
 - 💬 We can talk about games, series, movies and k-pop.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I initiated learn programming with 14 years old because i loved blogs.
 - 👩🏻‍💻 Visit [my portfolio](https://alessandra.dev.br)
-- 📫 How to reach me: say hi in <a href="mailto:alessandragiacon@gmail.com">alessandragiacon@gmail.com</a>
+- 📫 Say hi [here](#find-me)
 _________________________________________________
 
 #### **Tecnologies**
@@ -59,6 +60,7 @@ _________________________________________________
 ### Find me
 <div style="display:flex; flex-wrap: wrap; align-items: flex-start;">
     <a href="https://www.behance.net/alessandragiacon" target="_blank"><img src="https://img.shields.io/badge/-Behance-2496ED?logo=behance&logoColor=white"></a>
+    <a href="mailto:alessandragiacon@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white"></a>
     <a href="https://br.linkedin.com/in/alessandragiacon" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-4479A1?logo=linkedin&logoColor=white"/></a>
 </div>
 
