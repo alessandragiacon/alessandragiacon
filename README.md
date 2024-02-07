@@ -1,4 +1,4 @@
-# Hello, welcome to my github profile
+# Hello, world!
 #### i'm Alessandra, i'm 30 years old and brazilian 👋
 
 #### Bio
