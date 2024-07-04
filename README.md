@@ -4,8 +4,8 @@
 #### Bio
 
 - 💻 I’m developer and i currently working on [Genial Investimentos](https://www.genialinvestimentos.com.br)
-- 🌱 I’m currently learning [NextJS](https://nextjs.org/)
-- ⚙️ I use daily: `.php`, `.tsx`, `.scss`
+- 🌱 I’m currently learning C#.
+- ⚙️ I use daily: `.php`, `.tsx`, `.scss` and `.cs`
 - 👩🏻‍🎓 I'm graduated in Game Development - FATEC
 - 💬 We can talk about games, series, movies and k-pop.
 - 😄 Pronouns: She/her
