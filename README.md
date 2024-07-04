@@ -3,7 +3,7 @@
 
 #### Bio
 
-- 💻 I’m web developer and i currently working on [Genial Investimentos](https://www.genialinvestimentos.com.br)
+- 💻 I’m developer and i currently working on [Genial Investimentos](https://www.genialinvestimentos.com.br)
 - 🌱 I’m currently learning [NextJS](https://nextjs.org/)
 - ⚙️ I use daily: `.php`, `.tsx`, `.scss`
 - 👩🏻‍🎓 I'm graduated in Game Development - FATEC
